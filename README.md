@@ -1,3 +1,3 @@
-# Uses A Simple API to create advice randomly
+# Random Advice Program
 * Languages Used
   * Python 3.0
